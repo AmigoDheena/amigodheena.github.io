@@ -1,5 +1,9 @@
 {
- "name": "App",
+ "name": "AmigoDheena",
+ "short_name": "Dheena",
+ "background_color": "#F3CF11",
+ "display": "standalone",
+ "orientation": "portrait",
  "icons": [
   {
    "src": "\/img\/favicons\/android-icon-36x36.png",
