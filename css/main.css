@@ -443,7 +443,7 @@ main#home h1 {
 }
 
 .header-container{  background-position: right; background-size: contain; height: calc(100vh); display: flex; align-items: center; }
-/* .header-container{ background: #f5a05c url('images/bg-shape.svg'); background-repeat: no-repeat; background-position: right; background-size: contain; height: calc(100vh - 72px); display: flex; align-items: center; } */
+.header-container{ background: #f5a05c url('img/bg-shape.svg'); background-repeat: no-repeat; background-position: right; background-size: contain; height: calc(100vh - 72px); display: flex; align-items: center; }
 .headerC {
 	display: flex;
 	justify-content: space-between;
