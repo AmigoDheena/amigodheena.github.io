@@ -495,3 +495,9 @@ main#home h1 {
 .project_link{
 	font-size: 15px !important;
 }
+a .nsocial {
+    color: #fa8b31;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-right: 15px;
+}
