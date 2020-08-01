@@ -492,3 +492,6 @@ main#home h1 {
   border: solid 10px #ffffff;
   width: 30vh;
 }
+.project_link{
+	font-size: 15px !important;
+}
