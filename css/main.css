@@ -495,9 +495,12 @@ main#home h1 {
 .project_link{
 	font-size: 15px !important;
 }
-a .nsocial {
+#contact a:link{
+    color: #fa8b31 !important;
+    font-size: 25px !important;
+    padding-top: 20px !important;
+    padding-right: 15px !important;
+}
+.icon.brands {
     color: #fa8b31;
-    font-size: 25px;
-    padding-top: 20px;
-    padding-right: 15px;
 }

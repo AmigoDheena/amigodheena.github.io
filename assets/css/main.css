@@ -1487,6 +1487,7 @@ h2 {
 	font-size: 1.8em;
 	letter-spacing: -0.015em;
 	color: #fa8b31;
+	text-decoration: underline;
 }
 
 h3,
@@ -2115,15 +2116,11 @@ body.is-preload #wrapper {
 }
 
 @media screen and (max-width: 736px) {
-
 	#footer .copyright li {
 		padding-left: 0.5em;
 		margin-left: 0.5em;
 	}
-
 }
-
-
 #work a,
 #contact span {
 	color: #fa8b31;
@@ -2155,14 +2152,27 @@ body.is-preload #wrapper {
 }
 
 .social {
-	padding: 10px;
+	padding-right: 10px;
 	font-size: 50px;
 	width: 50px;
 	text-align: center;
 	text-decoration: none;
 	/* margin: 5px 2px; */
 }
-
 #contact p {
 	margin-bottom: 0px;
+}
+#contact a:link, #contact .nsocial{
+    color: #fa8b31;
+    font-size: 25px;
+    padding-top: 20px;
+	padding-right: 15px;
+	text-decoration: none;
+}
+#contact .icon.brands {
+    color: #fa8b31;
+}
+
+.div_social {
+    padding-top: 20px;
 }
